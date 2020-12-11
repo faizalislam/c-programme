@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605592552 source:c:\users\viral filmz\desktop\bank2\bank2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
